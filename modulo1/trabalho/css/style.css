@@ -1,0 +1,73 @@
+body {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main {
+  height: 400px;
+  width: 650px;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  width: 70%;
+  margin-bottom: 50px;
+}
+
+#inputRed {
+  font-weight: bold;
+  color: red;
+}
+
+#inputGrenn {
+  font-weight: bold;
+  color: green;
+}
+
+#inputBlue {
+  font-weight: bold;
+  color: blue;
+}
+
+.redInputs {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.greenInputs {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+.blueInputs {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+
+#divColor {
+  border: 1px solid black;
+  width: 150px;
+  height: 150px;
+}
+
+.pText {
+  margin: 5px;
+}
+
+p {
+  margin-right: 5px;
+  margin-bottom: 5px;
+}

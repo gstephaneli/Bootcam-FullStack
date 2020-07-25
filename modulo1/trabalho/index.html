@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/reset.css" />
+    <title>Trabalho 1</title>
+  </head>
+  <body>
+    <div class="main">
+      <div class="inputs">
+        <div class="pText">
+          <p>R - Vermelho</p>
+          <p>G - Verde</p>
+          <p>B - Azul</p>
+        </div>
+        <div class="allInputs">
+          <div class="redInputs">
+            <input id="inputRed" type="range" min="0" max="255" value="0" />
+            <input
+              id="inputTextRed"
+              type="text"
+              min="0"
+              max="255"
+              value="0"
+              disabled
+            />
+          </div>
+          <div class="greenInputs">
+            <input id="inputGreen" type="range" min="0" max="255" value="0" />
+            <input
+              id="inputTextGreen"
+              type="text"
+              min="0"
+              max="255"
+              value="0"
+              disabled
+            />
+          </div>
+          <div class="blueInputs">
+            <input id="inputBlue" type="range" min="0" max="255" value="0" />
+            <input
+              id="inputTextBlue"
+              type="text"
+              min="0"
+              max="255"
+              value="0"
+              disabled
+            />
+          </div>
+        </div>
+      </div>
+      <div id="divColor"></div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
