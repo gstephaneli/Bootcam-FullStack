@@ -1,0 +1,2 @@
+Teste criacao de arquivo pelo node
+'Adicionando outro pequeno texto'
