@@ -1,0 +1,25 @@
+2020-08-01T16:19:11.994Z [Logger API] info: Api started
+2020-08-01T16:19:21.351Z [Logger API] info: POST /account - with data: {"id":1,"name":"Guilherme","balance":"250"}
+2020-08-01T16:19:24.877Z [Logger API] info: GET /account with successful
+2020-08-01T16:22:28.101Z [Logger API] info: Api started
+2020-08-01T16:22:43.699Z [Logger API] info: GET /account with successful
+2020-08-01T16:22:47.110Z [Logger API] error: In method: POST - /account, with message: Name e Balance são obrigatórios
+2020-08-01T16:22:58.292Z [Logger API] error: In method: POST - /account, with message: Name e Balance são obrigatórios
+2020-08-01T16:23:32.667Z [Logger API] error: In method: POST - /account, with message: Name e Balance são obrigatórios
+2020-08-01T16:24:07.237Z [Logger API] info: Api started
+2020-08-01T16:24:12.322Z [Logger API] error: In method: POST - /account, with message: Name e Balance são obrigatórios
+2020-08-01T16:25:07.505Z [Logger API] info: Api started
+2020-08-01T16:25:10.894Z [Logger API] error: In method: POST - /account, with message: Name e Balance são obrigatórios
+2020-08-01T16:26:09.411Z [Logger API] info: Api started
+2020-08-01T16:26:46.857Z [Logger API] info: Api started
+2020-08-01T16:27:02.209Z [Logger API] info: POST /account - with data: {"id":2,"name":"Guilherme","balance":"250"}
+2020-08-01T16:33:50.167Z [Logger API] info: Api started
+2020-08-01T16:34:17.756Z [Logger API] info: Api started
+2020-08-01T16:35:12.498Z [Logger API] info: Api started
+2020-08-01T16:36:03.761Z [Logger API] info: Api started
+2020-08-01T16:37:39.064Z [Logger API] info: Api started
+2020-08-01T16:37:58.335Z [Logger API] info: Api started
+2020-08-01T16:38:54.902Z [Logger API] info: Api started
+2020-08-01T16:39:03.057Z [Logger API] info: Api started
+2020-08-01T16:39:16.457Z [Logger API] info: Api started
+2020-08-01T16:44:05.045Z [Logger API] info: Api started and File created
